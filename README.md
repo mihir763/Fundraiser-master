@@ -6,10 +6,6 @@ It is built with React, Express, and Node. Currently, data is stored in DynamoDB
 
 > This project is still in active development, so there will be many updates and possibly breaking changes to come
 
-## Purpose and Features
-
-In short, I needed a way to raise funds for an important cause without paying more than I had to in fees. With Fundraiser, you pay only the Stripe fees (currently 2.9% + 30&cent; per transaction).
-
 ### Features
 
 * A beautiful space to tell your story
